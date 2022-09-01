@@ -1,0 +1,36 @@
+header {
+    background-color: #222222;
+    width: 100vw;
+    height: fit-content;
+
+    img {
+        display: inline;
+        flex-direction: column;
+        width: 15vh;
+        height: auto;
+        display: inline;
+
+    }
+
+    div {
+        width: 850%;
+        display: inline;
+        text-align: center;
+
+        a {
+            color: white;
+            text-align: center;
+            font-size: 3rem;            display: block;
+            justify-content: center;
+            justify-items: center;
+        }
+    }
+    .navList{
+        color: white;
+        display: inline;
+        a{
+            font-size: 1rem ;
+        }
+    }
+
+}
